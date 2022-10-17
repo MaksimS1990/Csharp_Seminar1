@@ -8,4 +8,4 @@ int input = int.Parse(Console.ReadLine()!);
 //2. Вычисление квадрата числа.
 int result = input * input;
 //3. Вывод результата на консоль.
-Console.WriteLine("Квадрат числа " + result);
+Console.WriteLine("Квадрат числа: " + result);
