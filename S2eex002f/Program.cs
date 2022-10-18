@@ -11,7 +11,6 @@ int OutSecondDigit(int randomNumber)
 {
     Console.WriteLine(randomNumber);
     int firstDigit = randomNumber / 100;
-    int secondDigit = (randomNumber - firstDigit*100) / 10;
     int thirdDigit = randomNumber % 10;
     return (firstDigit*10 + thirdDigit);
 }
