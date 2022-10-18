@@ -1,0 +1,15 @@
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\bin\Debug\net6.0\S2ex002.exe
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\bin\Debug\net6.0\S2ex002.deps.json
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\bin\Debug\net6.0\S2ex002.runtimeconfig.json
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\bin\Debug\net6.0\S2ex002.dll
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\bin\Debug\net6.0\S2ex002.pdb
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.csproj.AssemblyReference.cache
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.AssemblyInfoInputs.cache
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.AssemblyInfo.cs
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.csproj.CoreCompileInputs.cache
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.dll
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\refint\S2ex002.dll
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.pdb
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\S2ex002.genruntimeconfig.cache
+C:\Users\sipatov\Desktop\Practic\Csharp_Seminar1\S2ex002\obj\Debug\net6.0\ref\S2ex002.dll
