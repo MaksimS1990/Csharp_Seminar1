@@ -19,7 +19,7 @@ if ((number > 5) && (number < 1000)) {
 }
 
 if (number > 1000) {
-    Console.WriteLine("Программиcт в аудитории больше 1000");
+    Console.WriteLine("Программиcтов в аудитории больше 1000");
 }
 
 if (number < 0) {
