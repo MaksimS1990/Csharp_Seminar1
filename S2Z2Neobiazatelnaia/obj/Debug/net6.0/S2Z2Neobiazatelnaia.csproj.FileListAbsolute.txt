@@ -1,0 +1,15 @@
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.AssemblyInfoInputs.cache
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.AssemblyInfo.cs
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\bin\Debug\net6.0\S2Z2Neobiazatelnaia.exe
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\bin\Debug\net6.0\S2Z2Neobiazatelnaia.deps.json
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\bin\Debug\net6.0\S2Z2Neobiazatelnaia.runtimeconfig.json
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\bin\Debug\net6.0\S2Z2Neobiazatelnaia.dll
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\bin\Debug\net6.0\S2Z2Neobiazatelnaia.pdb
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.dll
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\refint\S2Z2Neobiazatelnaia.dll
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.pdb
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\S2Z2Neobiazatelnaia.genruntimeconfig.cache
+C:\Users\English\Desktop\Сsharp_Seminar2\Csharp_Seminar1\S2Z2Neobiazatelnaia\obj\Debug\net6.0\ref\S2Z2Neobiazatelnaia.dll
