@@ -1,24 +1,30 @@
 ﻿//  Напишите программу, которая принимает на вход целое число любой разрядности и удаляет вторую цифру слева направо этого числа. 
 
-Console.WriteLine("Программа принимает число и удаляет вторую цифру слева направо.");
-Console.WriteLine("Введите любое число: ");
-int a = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Программа, которая принимает на вход целое число любой разрядности и удаляет вторую цифру слева направо этого числа.");
 
-Console.WriteLine("Введите число ");
-int num = int.Parse(Console.ReadLine());
+Console.Write("Введите целое число: ");
+int input = int.Parse(Console.ReadLine()!);
 
-int onlyNumber = 0;
-int num2 = 0;
- while (num > 99)
+if (input <= 9)
 {
-    onlyNumber = num % 10;
-    num2 = num2 * 10;
-    num2 = num2 + onlyNumber;
-    num = num / 10;
-
+    Console.WriteLine("Второй цифры нет.");
 }
-onlyNumber = num / 10;
-num2 = num2 * 10;
-num2 = num2 + onlyNumber;
-
-Console.WriteLine(num2);
+else
+{
+    void DeleteSecondDigit(int input)
+    {
+        int sum = 0;
+        int numberPosition = 1;
+        while (input > 99)
+        {
+            int div = input % 10;
+            sum = sum + div * numberPosition;
+            numberPosition = numberPosition * 10;
+            input = input / 10;
+        }
+        input = input / 10;
+        int result = input * numberPosition + sum;
+        Console.WriteLine("Итоговое число после удаления второй цифры: " + result);
+    }
+    DeleteSecondDigit(input);
+}
